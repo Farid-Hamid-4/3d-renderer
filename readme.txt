@@ -1,5 +1,4 @@
 Name: Farid Hamid
-Student Number: 1067867
 
 How to run:
 	-place all files in cis2750.socs.uoguelph.ca/srv/fhamid/
